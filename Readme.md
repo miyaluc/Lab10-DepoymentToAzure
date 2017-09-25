@@ -24,6 +24,5 @@
 
 ## Rubric
 - 3pts: Application runs without any errors
-- 3pts: Custom Error page for Development & Production
-- 3pts: Deploy to Azure
-- 1pts: Readme included with answers to questions
+- 5pts: Deploy to Azure
+- 2pts: Readme included with answers to questions
