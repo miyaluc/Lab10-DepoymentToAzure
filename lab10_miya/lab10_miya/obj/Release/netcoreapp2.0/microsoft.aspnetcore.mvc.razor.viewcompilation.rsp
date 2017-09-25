@@ -1,0 +1,5 @@
+C:\Users\shami\source\repos\Lab10-DepoymentToAzure\lab10_miya\lab10_miya
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=lab10miya
+--content-root=C:\Users\shami\source\repos\Lab10-DepoymentToAzure\lab10_miya\lab10_miya
+--file=

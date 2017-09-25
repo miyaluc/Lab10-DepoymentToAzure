@@ -1,0 +1,11 @@
+C:\Users\shami\source\repos\Lab10-DepoymentToAzure\lab10_miya\lab10_miya\bin\Release\netcoreapp2.0\lab10miya.deps.json
+C:\Users\shami\source\repos\Lab10-DepoymentToAzure\lab10_miya\lab10_miya\bin\Release\netcoreapp2.0\lab10miya.runtimeconfig.json
+C:\Users\shami\source\repos\Lab10-DepoymentToAzure\lab10_miya\lab10_miya\bin\Release\netcoreapp2.0\lab10miya.runtimeconfig.dev.json
+C:\Users\shami\source\repos\Lab10-DepoymentToAzure\lab10_miya\lab10_miya\bin\Release\netcoreapp2.0\lab10miya.dll
+C:\Users\shami\source\repos\Lab10-DepoymentToAzure\lab10_miya\lab10_miya\bin\Release\netcoreapp2.0\lab10miya.pdb
+C:\Users\shami\source\repos\Lab10-DepoymentToAzure\lab10_miya\lab10_miya\obj\Release\netcoreapp2.0\lab10miya.csprojResolveAssemblyReference.cache
+C:\Users\shami\source\repos\Lab10-DepoymentToAzure\lab10_miya\lab10_miya\obj\Release\netcoreapp2.0\lab10miya.csproj.CoreCompileInputs.cache
+C:\Users\shami\source\repos\Lab10-DepoymentToAzure\lab10_miya\lab10_miya\obj\Release\netcoreapp2.0\lab10miya.AssemblyInfoInputs.cache
+C:\Users\shami\source\repos\Lab10-DepoymentToAzure\lab10_miya\lab10_miya\obj\Release\netcoreapp2.0\lab10miya.AssemblyInfo.cs
+C:\Users\shami\source\repos\Lab10-DepoymentToAzure\lab10_miya\lab10_miya\obj\Release\netcoreapp2.0\lab10miya.dll
+C:\Users\shami\source\repos\Lab10-DepoymentToAzure\lab10_miya\lab10_miya\obj\Release\netcoreapp2.0\lab10miya.pdb
