@@ -12542,9 +12542,9 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\shami\\source\\repos\\Lab10-DepoymentToAzure\\lab10_miya\\lab10_miya\\lab10_miya.csproj",
-      "projectName": "lab10_miya",
-      "projectPath": "C:\\Users\\shami\\source\\repos\\Lab10-DepoymentToAzure\\lab10_miya\\lab10_miya\\lab10_miya.csproj",
+      "projectUniqueName": "C:\\Users\\shami\\source\\repos\\Lab10-DepoymentToAzure\\lab10_miya\\lab10_miya\\lab10miya.csproj",
+      "projectName": "lab10miya",
+      "projectPath": "C:\\Users\\shami\\source\\repos\\Lab10-DepoymentToAzure\\lab10_miya\\lab10_miya\\lab10miya.csproj",
       "packagesPath": "C:\\Users\\shami\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\shami\\source\\repos\\Lab10-DepoymentToAzure\\lab10_miya\\lab10_miya\\obj\\",
       "projectStyle": "PackageReference",
